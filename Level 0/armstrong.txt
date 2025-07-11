@@ -1,0 +1,11 @@
+Input:
+153 9474 123 0 370 407 1
+
+Output:
+YES
+YES
+NO
+YES
+YES
+YES
+YES
