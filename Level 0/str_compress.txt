@@ -1,0 +1,6 @@
+Input:
+aaabbccccd abc a ab aabcccccaaa
+
+Output:
+a3b2c4d1 a1b1c1 a1 a1b1 a2b1c5a3
+
