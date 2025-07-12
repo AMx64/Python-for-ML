@@ -1,0 +1,6 @@
+Input:
+[("Alice", 40), ("Bob", 50), ("Alice", 70), ("Bob", 30)]
+
+Output:
+{'Alice': 70, 'Bob': 50}
+
