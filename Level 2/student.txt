@@ -1,0 +1,11 @@
+Input:
+3 
+Ankit 101 CHE  
+Sana 102 ECE  
+Ravi 103 CSE  
+
+
+Output:
+Name: Ankit, Roll: 101, Branch: CHE  
+Name: Sana, Roll: 102, Branch: ECE  
+Name: Ravi, Roll: 103, Branch: CSE
