@@ -1,0 +1,14 @@
+Input:  
+Ankit  
+1000  
+5  
+deposit 500  
+withdraw 200  
+balance  
+withdraw 1500  
+balance  
+
+Output:  
+1300  
+Insufficient balance  
+1300
