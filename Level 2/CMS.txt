@@ -1,0 +1,17 @@
+Input:
+  
+STUDENT Ankit 20 101 CHE 8.9  
+PROFESSOR Raj 45 5001 CH 120000  
+ 
+CGPA_UPDATE 101 9.1  
+SALARY_UPDATE 5001 130000  
+
+INTRODUCE 101  
+INTRODUCE 5001
+
+
+Output:
+CGPA Updated  
+Salary Updated  
+Student: Ankit, Roll: 101, Branch: CHE, CGPA: 9.1  
+Professor: Raj, EmpID: 5001, Dept: CH, Salary: 130000
